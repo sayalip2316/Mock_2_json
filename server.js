@@ -8,3 +8,5 @@ server.use(middlewares);
 server.use(router);
 
 server.listen(port);
+
+//https://mock-2-json.onrender.com/data      =>deployed link
