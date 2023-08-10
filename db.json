@@ -39,6 +39,56 @@
       "location": "Mumbai",
       "category": "Music",
       "price": 400
+    },
+    {
+      "id": 5,
+      "poster": "https://www.harryanddavid.com/blog/wp-content/uploads/2022/04/picnic-mothers-day-hero.jpg",
+      "name": "Food and Wine Expo",
+      "description": "Experience the finest wines and gourmet cuisine at this exquisite expo.",
+      "date": "2023-10-08",
+      "location": "Paris",
+      "category": "Food & Drink",
+      "price": 50
+    },
+    {
+      "id": 6,
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmzgXI93VVaMBOjaqMD_s-HJEOhA5IpwsqYBH_N4egtztdW147szOkms2_RlLx_2qYMTY&usqp=CAU",
+      "name": "Tech Conference",
+      "description": "Explore the latest technological innovations and connect with industry experts.",
+      "date": "2023-11-20",
+      "location": "San Francisco",
+      "category": "Technology",
+      "price": 150
+    },
+    {
+      "id": 7,
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz8QHXyidsqfRA3p33TUq7PzgyVJf8jQS9egUesdUG5ZLJbspqLNvfm9I_qMfFJtbbPO8&usqp=CAU",
+      "name": "Fitness Expo",
+      "description": "Get inspired and discover the latest fitness trends and products.",
+      "date": "2023-09-30",
+      "location": "New York",
+      "category": "Health & Wellness",
+      "price": 25
+    },
+    {
+      "id": 8,
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlMskxF-MCafCQQDTWDlFrDTwNlTDF3hDkpw6xXCdqcmGHtC2ANcXB_6QZY_RE68mij1w&usqp=CAU",
+      "name": "Artisan Crafts Fair",
+      "description": "Browse and purchase unique handmade crafts created by local artisans.",
+      "date": "2023-10-15",
+      "location": "London",
+      "category": "Art & Crafts",
+      "price": 10
+    },
+    {
+      "id": 9,
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz8QHXyidsqfRA3p33TUq7PzgyVJf8jQS9egUesdUG5ZLJbspqLNvfm9I_qMfFJtbbPO8&usqp=CAU",
+      "name": "Comedy Night",
+      "description": "Laugh out loud with a hilarious lineup of stand-up comedians.",
+      "date": "2023-09-25",
+      "location": "Los Angeles",
+      "category": "Entertainment",
+      "price": 20
     }
   ]
 }
